@@ -1,3 +1,8 @@
+"""
+TCP Port Scanner en Python
+Autor: lspci4
+Fecha: 2025-05-18
+"""
 import sys 
 import socket
 import json
